@@ -53,3 +53,8 @@ output_layer_out = sigmoid(output_layer_in)
 
 print('Output-layer Output:')
 print(output_layer_out)
+
+# Hidden-layer Output: (using consistent random seed
+# [ 0.41492192  0.42604313  0.5002434 ]
+# Output-layer Output:
+# [ 0.49815196  0.48539772]
